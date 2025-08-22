@@ -1,4 +1,4 @@
-# untitled whel — Random Activity & Food Picker
+# untitled wheel — Random Activity & Food Picker
 
 **untitled wheel** is a simple web app built with [Next.js](https://nextjs.org/) that helps you and your friends decide what to do or where to eat.  
 Instead of endless back-and-forth, just add nearby places, spin the wheel, and let luck decide.
