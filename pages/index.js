@@ -164,7 +164,6 @@ export default function Home() {
     });
   }
 
-  // Small trick: pass a "temp spin" once to Wheel to spin a filtered list
   const [tempSpin, setTempSpin] = useState(null);
 
   // Confetti helper
